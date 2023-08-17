@@ -6,6 +6,6 @@ I like experimenting with new technologies, building small project and self host
 . 💡 Learning Data Structure, Algorithms & DevOps Ecosystem  
 . 🐱 Teach the child about introduction to Programming with Scratch and Mbot
 ## Tech Stack
-. 💻 C/C++ | JS | Python\
+. 💻 C/C++ | JS | NestJS\
 . 🛠️ Docker & Systeme\
-. 🛢️ MySql | PostgreSQL
+. 🛢️ MySql | PostgreSQL | Prisma
